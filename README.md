@@ -9,7 +9,7 @@ O foco da análise está em elucidar os seguintes pontos:
 * Como a pandemia impactou o número de infrações de trânsito no Brasil?
 * Qual o impacto no número de internações e óbitos relacionados a acidentes de trânsito?
 * Há fundamento na máxima popular: "Existe a impressão de que só há mortes por covid [após o início da pandemia]"?
-* Qual foi o impacto causado no número geral de internações no SUS?
+* Qual foi o impacto causado no número geral de internações e óbitos registrados no SUS?
 
 ### Dados Utilizados
 
